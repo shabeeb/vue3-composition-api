@@ -1,5 +1,10 @@
 # vue3-composition-todo
 
+Refer this blog http://shabeebk.com/blog/vue-3-composition-api-tutorial-with-example-project/
+
+For demo: https://vue-composition-api-simple-todo.pages.dev/
+
+
 ## Project setup
 ```
 npm install
